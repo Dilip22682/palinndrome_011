@@ -1,0 +1,32 @@
+whole python+Advance
+
+Django
+how fetch first 5 data FROM model using Django
+ORM
+DRF
+what is router
+
+
+--------fronted-----------
+css(how to link css file in HTML)
+flex properties
+study all attributes seriously
+study about box properties
+
+inside a box you have place 2nd box at the center
+how to link external css file in to html file
+
+
+
+javaScript
+function
+Dom(important)
+promise(Data fetching from API)
+sync and Await
+
+inside a child box when we click on it , an alert will show how to do it
+
+SQL
+joins
+what is inner joins 
+write the query
