@@ -80,3 +80,29 @@ a,b=0,1
 for _ in range(150):
     print(a,end=" ")
     a,b=b,a+b
+    
+    
+    
+    
+    
+def cab(k):
+    # a,b=0,1
+    if k==0:
+        return 1
+    else:
+        return k*cab(k-1)
+
+res=cab(5)
+print(res)
+    
+    
+    
+def sab(k):
+    # a,b=0,1
+    if k==0:
+        return 1
+    else:
+        return k*sab(k-1)
+
+res=sab(5)
+print(res)
